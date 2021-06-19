@@ -1,0 +1,160 @@
+,pair,count
+0,"('Greece', 'Spain')",3
+1,"('Spain', 'United Kingdom')",6
+2,"('France', 'Spain')",8
+3,"('Spain', 'Switzerland')",2
+4,"('Germany', 'Spain')",6
+5,"('Netherlands', 'Spain')",2
+6,"('Italy', 'Spain')",4
+7,"('Cyprus', 'Spain')",1
+8,"('Spain', 'Sweden')",3
+9,"('Ireland', 'Spain')",1
+10,"('Belgium', 'Spain')",2
+11,"('Norway', 'Spain')",2
+12,"('Austria', 'Spain')",2
+13,"('Denmark', 'Spain')",1
+14,"('Iceland', 'Spain')",1
+15,"('Malta', 'Spain')",1
+16,"('Finland', 'Spain')",2
+17,"('Greece', 'United Kingdom')",4
+18,"('France', 'Greece')",5
+19,"('Greece', 'Switzerland')",3
+20,"('Germany', 'Greece')",5
+21,"('Greece', 'Netherlands')",3
+22,"('Greece', 'Italy')",5
+23,"('Cyprus', 'Greece')",1
+24,"('Greece', 'Sweden')",2
+25,"('Greece', 'Ireland')",1
+26,"('Belgium', 'Greece')",2
+27,"('Greece', 'Norway')",1
+28,"('Austria', 'Greece')",3
+29,"('Denmark', 'Greece')",1
+30,"('Greece', 'Iceland')",1
+31,"('Greece', 'Malta')",1
+32,"('Finland', 'Greece')",2
+33,"('France', 'United Kingdom')",16
+34,"('Switzerland', 'United Kingdom')",3
+35,"('Germany', 'United Kingdom')",12
+36,"('Netherlands', 'United Kingdom')",8
+37,"('Italy', 'United Kingdom')",7
+38,"('Cyprus', 'United Kingdom')",1
+39,"('Sweden', 'United Kingdom')",6
+40,"('Ireland', 'United Kingdom')",6
+41,"('Belgium', 'United Kingdom')",5
+42,"('Norway', 'United Kingdom')",6
+43,"('Austria', 'United Kingdom')",3
+44,"('Denmark', 'United Kingdom')",3
+45,"('Iceland', 'United Kingdom')",1
+46,"('Malta', 'United Kingdom')",1
+47,"('Finland', 'United Kingdom')",3
+48,"('France', 'Switzerland')",3
+49,"('France', 'Germany')",14
+50,"('France', 'Netherlands')",9
+51,"('France', 'Italy')",8
+52,"('Cyprus', 'France')",1
+53,"('France', 'Sweden')",6
+54,"('France', 'Ireland')",1
+55,"('Belgium', 'France')",5
+56,"('France', 'Norway')",6
+57,"('Austria', 'France')",5
+58,"('Denmark', 'France')",3
+59,"('France', 'Iceland')",1
+60,"('France', 'Malta')",1
+61,"('Finland', 'France')",4
+62,"('Germany', 'Switzerland')",3
+63,"('Netherlands', 'Switzerland')",3
+64,"('Italy', 'Switzerland')",2
+65,"('Cyprus', 'Switzerland')",1
+66,"('Sweden', 'Switzerland')",1
+67,"('Ireland', 'Switzerland')",1
+68,"('Belgium', 'Switzerland')",2
+69,"('Norway', 'Switzerland')",1
+70,"('Austria', 'Switzerland')",2
+71,"('Denmark', 'Switzerland')",1
+72,"('Iceland', 'Switzerland')",1
+73,"('Malta', 'Switzerland')",1
+74,"('Finland', 'Switzerland')",1
+75,"('Germany', 'Netherlands')",10
+76,"('Germany', 'Italy')",9
+77,"('Cyprus', 'Germany')",1
+78,"('Germany', 'Sweden')",7
+79,"('Germany', 'Ireland')",1
+80,"('Belgium', 'Germany')",5
+81,"('Germany', 'Norway')",5
+82,"('Austria', 'Germany')",5
+83,"('Denmark', 'Germany')",3
+84,"('Germany', 'Iceland')",1
+85,"('Germany', 'Malta')",1
+86,"('Finland', 'Germany')",5
+87,"('Italy', 'Netherlands')",4
+88,"('Cyprus', 'Netherlands')",1
+89,"('Netherlands', 'Sweden')",4
+90,"('Ireland', 'Netherlands')",1
+91,"('Belgium', 'Netherlands')",4
+92,"('Netherlands', 'Norway')",3
+93,"('Austria', 'Netherlands')",4
+94,"('Denmark', 'Netherlands')",3
+95,"('Iceland', 'Netherlands')",1
+96,"('Malta', 'Netherlands')",1
+97,"('Finland', 'Netherlands')",4
+98,"('Cyprus', 'Italy')",1
+99,"('Italy', 'Sweden')",5
+100,"('Ireland', 'Italy')",1
+101,"('Belgium', 'Italy')",2
+102,"('Italy', 'Norway')",5
+103,"('Austria', 'Italy')",3
+104,"('Denmark', 'Italy')",2
+105,"('Iceland', 'Italy')",1
+106,"('Italy', 'Malta')",1
+107,"('Finland', 'Italy')",3
+108,"('Cyprus', 'Sweden')",1
+109,"('Cyprus', 'Ireland')",1
+110,"('Belgium', 'Cyprus')",1
+111,"('Cyprus', 'Norway')",1
+112,"('Austria', 'Cyprus')",1
+113,"('Cyprus', 'Denmark')",1
+114,"('Cyprus', 'Iceland')",1
+115,"('Cyprus', 'Malta')",1
+116,"('Cyprus', 'Finland')",1
+117,"('Ireland', 'Sweden')",1
+118,"('Belgium', 'Sweden')",3
+119,"('Norway', 'Sweden')",4
+120,"('Austria', 'Sweden')",2
+121,"('Denmark', 'Sweden')",3
+122,"('Iceland', 'Sweden')",1
+123,"('Malta', 'Sweden')",1
+124,"('Finland', 'Sweden')",5
+125,"('Belgium', 'Ireland')",1
+126,"('Ireland', 'Norway')",1
+127,"('Austria', 'Ireland')",1
+128,"('Denmark', 'Ireland')",1
+129,"('Iceland', 'Ireland')",1
+130,"('Ireland', 'Malta')",1
+131,"('Finland', 'Ireland')",1
+132,"('Belgium', 'Norway')",2
+133,"('Austria', 'Belgium')",3
+134,"('Belgium', 'Denmark')",3
+135,"('Belgium', 'Iceland')",1
+136,"('Belgium', 'Malta')",1
+137,"('Belgium', 'Finland')",2
+138,"('Austria', 'Norway')",2
+139,"('Denmark', 'Norway')",2
+140,"('Iceland', 'Norway')",1
+141,"('Malta', 'Norway')",1
+142,"('Finland', 'Norway')",2
+143,"('Austria', 'Denmark')",2
+144,"('Austria', 'Iceland')",1
+145,"('Austria', 'Malta')",1
+146,"('Austria', 'Finland')",3
+147,"('Denmark', 'Iceland')",1
+148,"('Denmark', 'Malta')",1
+149,"('Denmark', 'Finland')",2
+150,"('Iceland', 'Malta')",1
+151,"('Finland', 'Iceland')",1
+152,"('Finland', 'Malta')",1
+153,"('Greece', 'Portugal')",1
+154,"('Portugal', 'Spain')",1
+155,"('Italy', 'Portugal')",1
+156,"('Portugal', 'United Kingdom')",1
+157,"('Germany', 'Portugal')",1
+158,"('France', 'Portugal')",1
